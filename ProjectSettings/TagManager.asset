@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - coinScore
+  - gold
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - coin
+  - enemy
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: enemy
+    uniqueID: 2994995901
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: coin
+    uniqueID: 940828231
+    locked: 0
+  - name: ground
+    uniqueID: 1928787333
+    locked: 0
